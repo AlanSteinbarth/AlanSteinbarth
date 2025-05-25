@@ -79,22 +79,40 @@
 </div>
 
 ### 🎙️ Audio & Speech Processing
-* **[Audio2Tekst](https://github.com/AlanSteinbarth/Audio2Tekst)** – Konwerter nagrań audio do tekstu z wykorzystaniem OpenAI Whisper
+* **[Audio2Tekst](https://github.com/AlanSteinbarth/Audio2Tekst)** – Profesjonalny konwerter audio na tekst z OpenAI Whisper, obsługa 90+ języków, batch processing
   
   ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![OpenAI](https://img.shields.io/badge/OpenAI-Whisper-green) ![GUI](https://img.shields.io/badge/GUI-tkinter-orange)
   
-* **[Notatki-glosowe-i-ich-wyszukiwanie](https://github.com/AlanSteinbarth/Notatki-glosowe-i-ich-wyszukiwanie)** – Zaawansowany system nagrywania głosu, transkrypcji i wyszukiwania notatek z wykorzystaniem embeddingów wektorowych
+* **[Notatki-glosowe-i-ich-wyszukiwanie](https://github.com/AlanSteinbarth/Notatki-glosowe-i-ich-wyszukiwanie)** – AI-powered system notatek głosowych z semantycznym wyszukiwaniem vectorowym
 
   ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![Vector Search](https://img.shields.io/badge/Vector-Search-purple) ![AI](https://img.shields.io/badge/AI-Embeddings-red)
 
 ### 🖼️ Image & Document Processing  
-* **[Konwerter-plikow-graficznych](https://github.com/AlanSteinbarth/Konwerter-plikow-graficznych)** – Aplikacja z GUI do konwersji plików graficznych (HEIC, JPG, PNG, BMP, TIFF, GIF)
+* **[Konwerter-plikow-graficznych](https://github.com/AlanSteinbarth/Konwerter-plikow-graficznych)** – Uniwersalny konwerter grafik z batch processing, 15+ formatów, skalowanie i kompresja
 
   ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![Image Processing](https://img.shields.io/badge/Image-Processing-yellow) ![GUI](https://img.shields.io/badge/GUI-tkinter-orange)
   
-* **[pdf-to-docx-converter](https://github.com/AlanSteinbarth/pdf-to-docx-converter)** – Konwerter PDF na DOCX/TXT z funkcją OCR i nowoczesnym interfejsem użytkownika
+* **[pdf-to-docx-converter](https://github.com/AlanSteinbarth/pdf-to-docx-converter)** – Zaawansowany konwerter PDF na DOCX/TXT z OCR, obsługa skanowanych dokumentów
 
   ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![OCR](https://img.shields.io/badge/OCR-Tesseract-green) ![PDF](https://img.shields.io/badge/PDF-Processing-red)
+
+### 🧠 AI & Machine Learning Applications
+* **[Sokrates](https://github.com/AlanSteinbarth/Sokrates)** – Inteligentny asystent edukacyjny z ChatGPT, personalizowane sesje nauki i tryby specjalistyczne
+
+  ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![ChatGPT](https://img.shields.io/badge/ChatGPT-Integration-green) ![Education](https://img.shields.io/badge/Education-AI-purple)
+
+* **[Wyszukiwanie-znajomych-na-kursie](https://github.com/AlanSteinbarth/Wyszukiwanie-znajomych-na-kursie)** – ML-powered platforma matchowania uczestników z clustering algorithms
+
+  ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red) ![ML](https://img.shields.io/badge/ML-Clustering-orange)
+
+### 📊 Data Analysis & Utilities  
+* **[Filtrowanie-danych-z-ankiety](https://github.com/AlanSteinbarth/Filtrowanie-danych-z-ankiety)** – Zaawansowany system analizy danych ankietowych z ML i automatycznym czyszczeniem
+
+  ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![Pandas](https://img.shields.io/badge/Pandas-Analysis-blue) ![ML](https://img.shields.io/badge/ML-Analytics-green)
+
+* **[Kalkulator-dla-biegaczy](https://github.com/AlanSteinbarth/Kalkulator-dla-biegaczy)** – Inteligentny kalkulator treningowy z predykcją wyników i planami treningowymi
+
+  ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange) ![Sports](https://img.shields.io/badge/Sports-Analytics-green) ![Algorithms](https://img.shields.io/badge/Algorithms-Prediction-blue)
 
 ### 🚀 Platforma AI
 * **[VictoryMind.ai](https://victorymind.ai)** – Platforma cyfrowa w pełni zarządzana przez AI (eksperyment edukacyjny i naukowy)

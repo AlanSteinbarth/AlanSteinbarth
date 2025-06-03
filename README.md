@@ -1,6 +1,6 @@
 # Alan Steinbarth
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=AI+Engineer+%26+Data+Scientist;Founder+of+VictoryMind.ai;Python+Developer;Machine+Learning+Expert;Automation+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Scientist+%26+AI+Engineer;Founder+of+VictoryMind.ai;Python+Developer;Machine+Learning+Expert;Automation+Enthusiast)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-steinbarth)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://victorymind.ai)
@@ -146,6 +146,50 @@
 
 ![Enterprise](https://img.shields.io/badge/Grade-Enterprise-gold) ![Maintenance](https://img.shields.io/badge/Maintained-Yes-green) ![Updates](https://img.shields.io/badge/Updates-Regular-blue)
 
+---
+
+## 🏢 VictoryMind.ai - Business Solutions
+
+<div align="center">
+
+### 💼 Jak AI może zmienić Twój biznes?
+
+</div>
+
+**VictoryMind.ai** to innowacyjna firma specjalizująca się w optymalizacji biznesu z wykorzystaniem sztucznej inteligencji. Oferujemy dedykowane rozwiązania dopasowane do specyfiki Twojej firmy.
+
+### 🚀 Nasze Usługi
+
+<div align="center">
+
+| 🤖 **Automatyzacja Procesów** | 📊 **Analiza Danych** | 🛠️ **Dedykowane Rozwiązania** |
+|:---:|:---:|:---:|
+| Wdrażamy rozwiązania AI, które automatyzują powtarzalne zadania, oszczędzając czas i zwiększając efektywność zespołu | Przekształcamy Twoje dane w wartościowe insights. Raportowanie, predykcje i wizualizacje wspierające decyzje biznesowe | Tworzymy aplikacje AI dopasowane do Twojej firmy. Od chatbotów po systemy rekomendacyjne |
+
+</div>
+
+### 📈 Przykłady Realizacji
+
+Wszystkie nasze projekty można znaleźć na tym profilu GitHub:
+
+* **[Audio2Tekst](https://github.com/AlanSteinbarth/Audio2Tekst)** - Automatyczna transkrypcja w 90+ językach
+* **[Sokrates AI](https://github.com/AlanSteinbarth/Sokrates)** - Inteligentny asystent edukacyjny  
+* **[Notatki Głosowe](https://github.com/AlanSteinbarth/Notatki-glosowe-i-ich-wyszukiwanie)** - AI-powered wyszukiwanie semantyczne
+
+### 💬 Bezpłatna Konsultacja
+
+Każdy projekt zaczynamy od **bezpłatnej konsultacji**. Omówimy Twoje potrzeby i zaproponujemy optymalne rozwiązanie.
+
+<div align="center">
+
+[![Contact](https://img.shields.io/badge/contact@victorymind.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@victorymind.ai)
+[![Website](https://img.shields.io/badge/VictoryMind.ai-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://victorymind.ai)
+[![LinkedIn](https://img.shields.io/badge/Alan_Steinbarth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alansteinbarth)
+
+</div>
+
+---
+
 ## 🛡️ Quality Assurance & Repository Status
 
 <div align="center">
@@ -225,5 +269,16 @@
 
 > 🤝 **Szukam współpracy w projektach AI!**  
 > Jeśli pracujesz nad ciekawymi projektami związanymi z AI, machine learning lub automatyzacją - skontaktuj się ze mną!
+
+---
+
+<div align="center">
+
+### 🌐 Language Versions
+
+[![Polish](https://img.shields.io/badge/🇵🇱_Polish-Available-green?style=for-the-badge)](https://github.com/AlanSteinbarth/AlanSteinbarth)
+[![English](https://img.shields.io/badge/🇺🇸_English-Available-blue?style=for-the-badge)](https://victorymind.ai/index-en.html)
+
+</div>
 
 *🚀 Explore my AI-driven projects and reach out for collaborations in artificial intelligence and automation!*

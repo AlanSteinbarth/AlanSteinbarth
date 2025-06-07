@@ -215,7 +215,9 @@ Każdy projekt zaczynamy od **bezpłatnej konsultacji**. Omówimy Twoje potrzeby
 
 </div>
 
-W projektach VictoryMind.ai wdrażam najlepsze praktyki web developmentu i SEO:
+**🌐 Strona internetowa VictoryMind.ai została w pełni stworzona z pomocą AI** - od koncepcji, przez kod, aż po treści i grafiki. To prawdziwy showcase możliwości sztucznej inteligencji w tworzeniu profesjonalnych rozwiązań webowych.
+
+W projekcie VictoryMind.ai wdrażam najlepsze praktyki web developmentu i SEO:
 
 * **🏷️ Poprawne meta tagi**: Unikalne meta title i meta description dla każdej wersji językowej
 * **🔠 Tagi hreflang**: Pełna obsługa wielojęzyczności (PL/EN) z odpowiednimi tagami hreflang
@@ -225,8 +227,9 @@ W projektach VictoryMind.ai wdrażam najlepsze praktyki web developmentu i SEO:
 * **🍪 Zgoda na cookies**: Skrypt cookie banner ładuje Google Analytics dopiero po akceptacji
 * **🔒 Bezpieczeństwo i DNS**: Zaimplementowane rekordy CAA/SPF, robots.txt, sitemap.xml
 * **⚡ Nowoczesny frontend**: Przemyślany main.js (modal, scroll to top, AJAX), zoptymalizowana wydajność
+* **🤖 AI-Generated Content**: Wszystkie treści, grafiki i kod wygenerowane przy użyciu sztucznej inteligencji
 
-Dzięki temu strona [VictoryMind.ai](https://victorymind.ai) jest nie tylko szybka i bezpieczna, ale także w pełni zgodna z wymaganiami SEO i UX.
+Dzięki temu strona [VictoryMind.ai](https://victorymind.ai) jest nie tylko szybka i bezpieczna, ale także w pełni zgodna z wymaganiami SEO i UX - a wszystko to stworzone z pomocą AI!
 
 <div align="center">
 

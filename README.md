@@ -10,7 +10,7 @@
 
 ## 🏢 VictoryMind.ai – AI dla Biznesu
 
-Założyciel VictoryMind.ai – automatyzuję i optymalizuję procesy biznesowe oraz marketingowe z wykorzystaniem sztucznej inteligencji. Oferuję dedykowane rozwiązania dopasowane do specyfiki Twojej firmy.
+Założyciel VictoryMind.ai – automatyzuję i optymalizuję procesy biznesowe oraz marketingowe z wykorzystaniem sztucznej inteligencji. Oferuję kompleksowe wdrożenia AI – od analizy potrzeb, przez projektowanie rozwiązań, po integrację i wsparcie powdrożeniowe.
 
 ### Czym się zajmuję:
 
@@ -30,6 +30,7 @@ Założyciel VictoryMind.ai – automatyzuję i optymalizuję procesy biznesowe 
 - 🛠️ Tworzę enterprise-grade aplikacje open-source,
 - 🏆 Aktywny contributor – regularnie rozwijam projekty open-source do poziomu enterprise,
 - ✍️ Prowadzę profesjonalnego bloga o AI i data science, gdzie dzielę się praktycznymi poradami i obalam mity związane z AI w biznesie,
+- 💡 Oferuję konsultacje i szkolenia z AI dla firm,
 
 ### Przykłady realizacji:
 
@@ -71,21 +72,6 @@ Wszystkie projekty znajdziesz na moim profilu GitHub.
 📈 Każde repozytorium regularnie zyskuje nowe funkcjonalności, usprawnienia i aktualizacje bezpieczeństwa,  
 ⭐ Zobacz najnowsze commity, releases i roadmapy w moich repozytoriach na GitHubie,  
 🛡️ Każdy projekt przechodzi code review, testy i audyt jakości przed publikacją,
-
----
-
-## 🏢 VictoryMind.ai - Business Solutions
-
-**VictoryMind.ai** to nowoczesna firma specjalizująca się w automatyzacji i optymalizacji procesów biznesowych oraz marketingowych z wykorzystaniem sztucznej inteligencji.  
-Oferuję kompleksowe wdrożenia AI – od analizy potrzeb, przez projektowanie rozwiązań, po integrację i wsparcie powdrożeniowe.
-
-**Główne obszary:**
-- 🤖 Automatyzacja procesów (RPA, workflow, integracje API),
-- 📊 Analiza danych i predykcje biznesowe (ML, raportowanie, dashboardy),
-- 🛠️ Dedykowane aplikacje AI (chatboty, systemy rekomendacyjne, generatory treści),
-- 💡 Konsultacje i szkolenia z AI dla firm,
-
-**Wszystkie projekty i wdrożenia znajdziesz na moim GitHubie oraz stronie [victorymind.ai](https://victorymind.ai).**
 
 ---
 

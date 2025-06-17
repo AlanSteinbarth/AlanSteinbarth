@@ -68,9 +68,9 @@ Wszystkie projekty znajdziesz na moim profilu GitHub.
 ## 🚀 Active Development
 
 🔥 **Wszystkie projekty są aktywnie rozwijane!**  
-📈 Każde repozytorium regularnie zyskuje nowe funkcjonalności, usprawnienia i aktualizacje bezpieczeństwa.  
-⭐ Zobacz najnowsze commity, releases i roadmapy w moich repozytoriach na GitHubie.  
-🛡️ Każdy projekt przechodzi code review, testy i audyt jakości przed publikacją.
+📈 Każde repozytorium regularnie zyskuje nowe funkcjonalności, usprawnienia i aktualizacje bezpieczeństwa,  
+⭐ Zobacz najnowsze commity, releases i roadmapy w moich repozytoriach na GitHubie,  
+🛡️ Każdy projekt przechodzi code review, testy i audyt jakości przed publikacją,
 
 ---
 
@@ -80,10 +80,10 @@ Wszystkie projekty znajdziesz na moim profilu GitHub.
 Oferuję kompleksowe wdrożenia AI – od analizy potrzeb, przez projektowanie rozwiązań, po integrację i wsparcie powdrożeniowe.
 
 **Główne obszary:**
-- 🤖 Automatyzacja procesów (RPA, workflow, integracje API)
-- 📊 Analiza danych i predykcje biznesowe (ML, raportowanie, dashboardy)
-- 🛠️ Dedykowane aplikacje AI (chatboty, systemy rekomendacyjne, generatory treści)
-- 💡 Konsultacje i szkolenia z AI dla firm
+- 🤖 Automatyzacja procesów (RPA, workflow, integracje API),
+- 📊 Analiza danych i predykcje biznesowe (ML, raportowanie, dashboardy),
+- 🛠️ Dedykowane aplikacje AI (chatboty, systemy rekomendacyjne, generatory treści),
+- 💡 Konsultacje i szkolenia z AI dla firm,
 
 **Wszystkie projekty i wdrożenia znajdziesz na moim GitHubie oraz stronie [victorymind.ai](https://victorymind.ai).**
 
@@ -93,12 +93,12 @@ Oferuję kompleksowe wdrożenia AI – od analizy potrzeb, przez projektowanie r
 
 **Jakość i bezpieczeństwo to priorytet każdego projektu:**
 
-- ✅ Każde repozytorium przechodzi regularny audyt jakości i bezpieczeństwa
-- 📚 Pełna dokumentacja techniczna i użytkowa
-- 🧪 Testy jednostkowe, integracyjne i automatyczne CI/CD
-- ⚡ Optymalizacja wydajności i stabilności
-- 🔒 Najwyższe standardy bezpieczeństwa kodu i danych
-- 🔄 Ciągłe doskonalenie i szybka reakcja na zgłoszenia
+- ✅ Każde repozytorium przechodzi regularny audyt jakości i bezpieczeństwa,
+- 📚 Pełna dokumentacja techniczna i użytkowa,
+- 🧪 Testy jednostkowe, integracyjne i automatyczne CI/CD,
+- ⚡ Optymalizacja wydajności i stabilności,
+- 🔒 Najwyższe standardy bezpieczeństwa kodu i danych,
+- 🔄 Ciągłe doskonalenie i szybka reakcja na zgłoszenia,
 
 **Status projektów:**  
 Wszystkie główne projekty mają status „Enterprise-Ready”, są aktywnie utrzymywane i nie posiadają otwartych krytycznych błędów.
@@ -109,7 +109,7 @@ Wszystkie główne projekty mają status „Enterprise-Ready”, są aktywnie ut
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=AlanSteinbarth&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlanSteinbarth&theme=radical&hide_border=true)](https://github.com/AlanSteinbarth)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanSteinbarth&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 

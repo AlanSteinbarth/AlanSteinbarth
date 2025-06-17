@@ -6,42 +6,61 @@
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://victorymind.ai)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@victorymind.ai)
 
-🚀 **Założyciel VictoryMind.ai** – firma w pełni zarządzana przez AI (eksperyment edukacyjny i naukowy)
+🚀 **Założyciel VictoryMind.ai** – automatyzacja i optymalizacja procesów biznesowych i marketingu z wykorzystaniem sztucznej inteligencji. Oferuję dedykowane rozwiązania, dopasowane do specyfiki Twojej firmy. 
+
+🤖 **Automatyzacja Procesów** | 📊 **Analiza Danych** | 🛠️ **Dedykowane Rozwiązania** |
+|:---:|:---:|:---:|
+| Wdrażam rozwiązania AI, które automatyzują powtarzalne zadania, oszczędzając czas i zwiększając efektywność zespołu | Przekształcam Twoje dane w wartościowe insights. Raportowanie, predykcje i wizualizacje wspierające decyzje biznesowe | Tworzę aplikacje AI dopasowane do Twojej firmy. Od chatbotów po systemy rekomendacyjne |
 
 **O mnie:**
 
 * 🎓 **Inżynier Sztucznej Inteligencji & Data Scientist**
-* 💼 **Założyciel VictoryMind.ai** – innowacyjnej firmy zarządzanej przez AI
-* 🔧 Specjalizuję się w tworzeniu produktów cyfrowych (e-booki, kursy, szablony, grafika) w 100% generowanych przez AI
-* 🛠️ Tworzę enterprise-grade aplikacje open-source dostępne za darmo na GitHub
-* 🏆 **Aktywny contributor** – regularnie rozwijam projekty open-source do poziomu enterprise
-* 📈 **Ciągłe doskonalenie** – każdy projekt jest systematycznie aktualizowany o nowe funkcjonalności
-* ⚡ Ekspert w automatyzacji procesów biznesowych i marketingu z wykorzystaniem AI
-* 📍 Lokalizacja: Warszawa, Polska
+Specjalizuję się w:
+💬 Chatbotach i asystentach AI (Streamlit, OpenAI API) – autorski projekt: github.com/AlanSteinbarth/streamlit-chatbot.
+🔄 ETL & Data Pipelines (pandas, pyarrow, własne skrypty) – automatyzacja i optymalizacja przetwarzania danych.
+🌐 REST API & mikroserwisach (FastAPI, Flask, Docker, Kubernetes).
+🛠️ CI/CD (Jenkins, GitHub Actions) – budowa i utrzymanie niezawodnych potoków automatyzacji.
+📊 Analizie danych – przekształcanie surowych danych w wartościowe insighty biznesowe.
+
+* 🛠️ Tworzę enterprise-grade aplikacje open-source.
+* 🏆 **Aktywny contributor** – regularnie rozwijam projekty open-source do poziomu enterprise.
+✍️ Prowadzę profesjonalnego bloga o sztucznej inteligencji i data science, gdzie dzielę się praktycznymi poradami i obalam mity związane z AI w biznesie.
+
+
+### 📈 Przykłady Realizacji
+
+Wszystkie moje projekty można znaleźć na tym profilu GitHub:
+
+* **[Audio2Tekst](https://github.com/AlanSteinbarth/Audio2Tekst)** - Automatyczna transkrypcja w 90+ językach
+* **[Sokrates AI](https://github.com/AlanSteinbarth/Sokrates)** - Inteligentny asystent edukacyjny  
+* **[Notatki Głosowe](https://github.com/AlanSteinbarth/Notatki-glosowe-i-ich-wyszukiwanie)** - AI-powered wyszukiwanie semantyczne
+
+* 📍 Lokalizacja: Warszawa, Polska.
+
 
 **Kluczowe technologie i umiejętności:**
 
 ### 🤖 AI & Machine Learning
-* 🧠 **Machine Learning / Deep Learning**: TensorFlow, PyTorch, scikit-learn
-* 🗣️ **Natural Language Processing**: OpenAI GPT-4, BERT, spaCy, Whisper
-* 🔍 **Vector Search & Embeddings**: Wyszukiwanie semantyczne, similarity search
-* 📊 **Data Science**: Pandas, NumPy, analiza danych
+* 🧠 **Machine Learning / Deep Learning**: TensorFlow, PyTorch, scikit-learn.
+* 🗣️ **Natural Language Processing**: OpenAI GPT-4, BERT, spaCy, Whisper.
+* 🔍 **Vector Search & Embeddings**: Wyszukiwanie semantyczne, similarity search.
+* 📊 **Data Science**: Pandas, NumPy, analiza danych.
 
 ### 🎨 AI Content Generation  
-* 🖼️ **Generowanie grafiki**: DALL·E, Midjourney, Stable Diffusion
-* ✍️ **Automatyczne tworzenie treści**: GPT-4, Claude, content automation
+* 🖼️ **Generowanie grafiki**: DALL·E, Midjourney, Stable Diffusion.
+* ✍️ **Automatyczne tworzenie treści**: GPT-4, Claude, content automation.
 
 ### 💻 Development & Tools
-* 🐍 **Python**: Flask, Streamlit, GUI (tkinter), OCR
-* 🔄 **Automatyzacja workflow**: Zapier, Make, custom API integrations
-* 🛠️ **Tools**: Git, API integration, Docker, VS Code
-* 🌐 **Web Technologies**: HTML, CSS, JavaScript basics
+* 🐍 **Python**: Flask, Streamlit, GUI (tkinter), OCR.
+* 🔄 **Automatyzacja workflow**: Zapier, Make, custom API integrations.
+* 🛠️ **Tools**: Git, API integration, Docker, VS Code.
+* 🌐 **Web Technologies**: HTML, CSS, JavaScript basics.
 
 ### 🏢 Enterprise Development
-* 🔒 **Security & Best Practices**: Bezpieczne kodowanie, walidacja danych
-* 🧪 **Testing & Quality**: Unit testing, code review, dokumentacja
-* ⚡ **Performance Optimization**: Optymalizacja wydajności, scalability
-* 📦 **Production Ready**: Enterprise-grade deployment, monitoring
+* 🔒 **Security & Best Practices**: Bezpieczne kodowanie, walidacja danych.
+* 🧪 **Testing & Quality**: Unit testing, code review, dokumentacja.
+* ⚡ **Performance Optimization**: Optymalizacja wydajności, scalability.
+* 📦 **Production Ready**: Enterprise-grade deployment, monitoring.
 
 ---
 
@@ -87,52 +106,52 @@
 </div>
 
 ### 🎙️ Audio & Speech Processing
-* **[Audio2Tekst](https://github.com/AlanSteinbarth/Audio2Tekst)** – Profesjonalny konwerter audio na tekst z OpenAI Whisper, obsługa 90+ języków, batch processing
+* **[Audio2Tekst](https://github.com/AlanSteinbarth/Audio2Tekst)** – Profesjonalny konwerter audio na tekst z OpenAI Whisper, obsługa 90+ języków, batch processing.
   
   ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![OpenAI](https://img.shields.io/badge/OpenAI-Whisper-green) ![GUI](https://img.shields.io/badge/GUI-tkinter-orange)
   
-* **[Notatki-glosowe-i-ich-wyszukiwanie](https://github.com/AlanSteinbarth/Notatki-glosowe-i-ich-wyszukiwanie)** – AI-powered system notatek głosowych z semantycznym wyszukiwaniem vectorowym
+* **[Notatki-glosowe-i-ich-wyszukiwanie](https://github.com/AlanSteinbarth/Notatki-glosowe-i-ich-wyszukiwanie)** – AI-powered system notatek głosowych z semantycznym wyszukiwaniem vectorowym.
 
   ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![Vector Search](https://img.shields.io/badge/Vector-Search-purple) ![AI](https://img.shields.io/badge/AI-Embeddings-red)
 
 ### 🖼️ Image & Document Processing  
-* **[Konwerter-plikow-graficznych](https://github.com/AlanSteinbarth/Konwerter-plikow-graficznych)** – Uniwersalny konwerter grafik z batch processing, 15+ formatów, skalowanie i kompresja
+* **[Konwerter-plikow-graficznych](https://github.com/AlanSteinbarth/Konwerter-plikow-graficznych)** – Uniwersalny konwerter grafik z batch processing, 15+ formatów, skalowanie i kompresja.
 
   ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![Image Processing](https://img.shields.io/badge/Image-Processing-yellow) ![GUI](https://img.shields.io/badge/GUI-tkinter-orange)
   
-* **[pdf-to-docx-converter](https://github.com/AlanSteinbarth/pdf-to-docx-converter)** – Zaawansowany konwerter PDF na DOCX/TXT z OCR, obsługa skanowanych dokumentów
+* **[pdf-to-docx-converter](https://github.com/AlanSteinbarth/pdf-to-docx-converter)** – Zaawansowany konwerter PDF na DOCX/TXT z OCR, obsługa skanowanych dokumentów.
 
   ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![OCR](https://img.shields.io/badge/OCR-Tesseract-green) ![PDF](https://img.shields.io/badge/PDF-Processing-red)
 
 ### 🧠 AI & Machine Learning Applications
-* **[Sokrates](https://github.com/AlanSteinbarth/Sokrates)** – Inteligentny asystent edukacyjny z ChatGPT, personalizowane sesje nauki i tryby specjalistyczne
+* **[Sokrates](https://github.com/AlanSteinbarth/Sokrates)** – Inteligentny asystent edukacyjny z ChatGPT, personalizowane sesje nauki i tryby specjalistyczne.
 
   ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![ChatGPT](https://img.shields.io/badge/ChatGPT-Integration-green) ![Education](https://img.shields.io/badge/Education-AI-purple)
 
-* **[Wyszukiwanie-znajomych-na-kursie](https://github.com/AlanSteinbarth/Wyszukiwanie-znajomych-na-kursie)** – ML-powered platforma matchowania uczestników z clustering algorithms
+* **[Wyszukiwanie-znajomych-na-kursie](https://github.com/AlanSteinbarth/Wyszukiwanie-znajomych-na-kursie)** – ML-powered platforma matchowania uczestników z clustering algorithms.
 
   ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red) ![ML](https://img.shields.io/badge/ML-Clustering-orange)
 
 ### 📊 Data Analysis & Utilities  
-* **[Filtrowanie-danych-z-ankiety](https://github.com/AlanSteinbarth/Filtrowanie-danych-z-ankiety)** – Zaawansowany system analizy danych ankietowych z ML i automatycznym czyszczeniem
+* **[Filtrowanie-danych-z-ankiety](https://github.com/AlanSteinbarth/Filtrowanie-danych-z-ankiety)** – Zaawansowany system analizy danych ankietowych z ML i automatycznym czyszczeniem.
 
   ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![Pandas](https://img.shields.io/badge/Pandas-Analysis-blue) ![ML](https://img.shields.io/badge/ML-Analytics-green)
 
-* **[Kalkulator-dla-biegaczy](https://github.com/AlanSteinbarth/Kalkulator-dla-biegaczy)** – Inteligentny kalkulator treningowy z predykcją wyników i planami treningowymi
+* **[Kalkulator-dla-biegaczy](https://github.com/AlanSteinbarth/Kalkulator-dla-biegaczy)** – Inteligentny kalkulator treningowy z predykcją wyników i planami treningowymi.
 
   ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange) ![Sports](https://img.shields.io/badge/Sports-Analytics-green) ![Algorithms](https://img.shields.io/badge/Algorithms-Prediction-blue)
 
 ### 🔧 Development Tools & Automation
-* **[generator-hasel-openai](https://github.com/AlanSteinbarth/generator-hasel-openai)** – Enterprise password generator z OpenAI integration, zaawansowane wzorce bezpieczeństwa
+* **[generator-hasel-openai](https://github.com/AlanSteinbarth/generator-hasel-openai)** – Enterprise password generator z OpenAI integration, zaawansowane wzorce bezpieczeństwa.
 
   ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![OpenAI](https://img.shields.io/badge/OpenAI-Integration-green) ![Security](https://img.shields.io/badge/Security-Enterprise-red)
 
-* **[github-readme-generator](https://github.com/AlanSteinbarth/github-readme-generator)** – Inteligentny generator README z AI, templates i automatyzacja dokumentacji
+* **[github-readme-generator](https://github.com/AlanSteinbarth/github-readme-generator)** – Inteligentny generator README z AI, templates i automatyzacja dokumentacji.
 
   ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![AI](https://img.shields.io/badge/AI-Generation-purple) ![Documentation](https://img.shields.io/badge/Documentation-Auto-orange)
 
 ### 🚀 Platforma AI
-* **[VictoryMind.ai](https://victorymind.ai)** – Platforma cyfrowa w pełni zarządzana przez AI (eksperyment edukacyjny i naukowy)
+* **[VictoryMind.ai](https://victorymind.ai)** 
 
   ![AI Platform](https://img.shields.io/badge/AI-Platform-purple) ![Automation](https://img.shields.io/badge/Automation-100%25-green) ![Experimental](https://img.shields.io/badge/Status-Experimental-orange)
 
@@ -141,8 +160,8 @@
 ## 🚀 Active Development
 
 🔥 **Wszystkie projekty są aktywnie rozwijane!**  
-📈 Regularnie dodaję nowe funkcjonalności i podnoszę standardy do poziomu enterprise  
-⭐ Sprawdź najnowsze commity i releases w moich repozytoriach
+📈 Regularnie dodaję nowe funkcjonalności i podnoszę standardy do poziomu enterprise.
+⭐ Sprawdź najnowsze commity i releases w moich repozytoriach.
 
 ![Enterprise](https://img.shields.io/badge/Grade-Enterprise-gold) ![Maintenance](https://img.shields.io/badge/Maintained-Yes-green) ![Updates](https://img.shields.io/badge/Updates-Regular-blue)
 
@@ -156,21 +175,21 @@
 
 </div>
 
-**VictoryMind.ai** to innowacyjna firma specjalizująca się w optymalizacji biznesu z wykorzystaniem sztucznej inteligencji. Oferujemy dedykowane rozwiązania dopasowane do specyfiki Twojej firmy. Nasza strona internetowa dostępna jest w dwóch wersjach językowych: [🇵🇱 Polski](https://victorymind.ai) i [🇺🇸 English](https://victorymind.ai/en/index.html).
+**VictoryMind.ai** - automatyzacja i optymalizacja procesów biznesowych i marketingu z wykorzystaniem sztucznej inteligencji. Oferuję dedykowane rozwiązania, dopasowane do specyfiki Twojej firmy. Strona internetowa dostępna jest w dwóch wersjach językowych: [🇵🇱 Polski](https://victorymind.ai) i [🇺🇸 English](https://victorymind.ai/en/index.html).
 
-### 🚀 Nasze Usługi
+### 🚀 Moje Usługi
 
 <div align="center">
 
 | 🤖 **Automatyzacja Procesów** | 📊 **Analiza Danych** | 🛠️ **Dedykowane Rozwiązania** |
 |:---:|:---:|:---:|
-| Wdrażamy rozwiązania AI, które automatyzują powtarzalne zadania, oszczędzając czas i zwiększając efektywność zespołu | Przekształcamy Twoje dane w wartościowe insights. Raportowanie, predykcje i wizualizacje wspierające decyzje biznesowe | Tworzymy aplikacje AI dopasowane do Twojej firmy. Od chatbotów po systemy rekomendacyjne |
+| Wdrażam rozwiązania AI, które automatyzują powtarzalne zadania, oszczędzając czas i zwiększając efektywność zespołu | Przekształcam Twoje dane w wartościowe insights. Raportowanie, predykcje i wizualizacje wspierające decyzje biznesowe | Tworzę aplikacje AI dopasowane do Twojej firmy. Od chatbotów po systemy rekomendacyjne |
 
 </div>
 
 ### 📈 Przykłady Realizacji
 
-Wszystkie nasze projekty można znaleźć na tym profilu GitHub:
+Wszystkie moje projekty można znaleźć na tym profilu GitHub:
 
 * **[Audio2Tekst](https://github.com/AlanSteinbarth/Audio2Tekst)** - Automatyczna transkrypcja w 90+ językach
 * **[Sokrates AI](https://github.com/AlanSteinbarth/Sokrates)** - Inteligentny asystent edukacyjny  
@@ -178,24 +197,24 @@ Wszystkie nasze projekty można znaleźć na tym profilu GitHub:
 
 ### 📚 Blog o AI
 
-Na oficjalnej stronie VictoryMind.ai prowadzimy [profesjonalny blog](https://victorymind.ai/blog/index.html) poświęcony sztucznej inteligencji. Publikujemy:
+Na oficjalnej stronie VictoryMind.ai prowadzę [profesjonalny blog](https://victorymind.ai/blog/index.html) poświęcony sztucznej inteligencji. Publikuję:
 
-* 🧠 **Praktyczne poradniki** - jak wdrażać AI w biznesie, obalamy mity i wyjaśniamy fakty
-* 📊 **Analizy trendów** - przegląd najnowszych technologii i kierunków rozwoju AI
+* 🧠 **Praktyczne poradniki** - jak wdrażać AI w biznesie, obalam mity i wyjaśniam fakty.
+* 📊 **Analiza trendów** - przegląd najnowszych technologii i kierunków rozwoju AI
 * 💼 **Case studies** - przykłady wdrożeń AI w różnych branżach
 * 🚀 **Artykuły edukacyjne** - dla osób chcących rozpocząć karierę w AI i Data Science
 
 #### 📌 Najnowsze artykuły:
-* [Fakty i Mity o AI](https://victorymind.ai/blog/2025-06-fakty-i-mity-ai.html) - Obalamy najczęstsze mity o sztucznej inteligencji
-* [Nowy zawód w erze AI](https://victorymind.ai/blog/2025-05-nowy-zawod-data-scientist.html) - O karierze Data Scientist
-* [Cyfrowy Klon Inwestora](https://victorymind.ai/blog/2025-04-cyfrowy-klon-inwestora-ai-nieruchomosci.html) - AI w branży nieruchomości
+* [Fakty i Mity o AI](https://victorymind.ai/blog/2025-06-fakty-i-mity-ai.html) - Obalam najczęstsze mity o sztucznej inteligencji.
+* [Nowy zawód w erze AI](https://victorymind.ai/blog/2025-05-nowy-zawod-data-scientist.html) - O karierze Data Scientist.
+* [Cyfrowy Klon Inwestora](https://victorymind.ai/blog/2025-04-cyfrowy-klon-inwestora-ai-nieruchomosci.html) - AI w branży nieruchomości.
 
 [![Blog AI](https://img.shields.io/badge/Blog_VictoryMind.ai-FF5722?style=for-the-badge&logoColor=white)](https://victorymind.ai/blog/index.html)
 [![RSS Feed](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://victorymind.ai/blog/rss.xml)
 
 ### 💬 Bezpłatna Konsultacja
 
-Każdy projekt zaczynamy od **bezpłatnej konsultacji**. Omówimy Twoje potrzeby i zaproponujemy optymalne rozwiązanie.
+Każdy projekt zaczynam od **bezpłatnej konsultacji**. Omówimy Twoje potrzeby i zaproponuję optymalne rozwiązania.
 
 <div align="center">
 
@@ -219,15 +238,15 @@ Każdy projekt zaczynamy od **bezpłatnej konsultacji**. Omówimy Twoje potrzeby
 
 W projekcie VictoryMind.ai wdrażam najlepsze praktyki web developmentu i SEO:
 
-* **🏷️ Poprawne meta tagi**: Unikalne meta title i meta description dla każdej wersji językowej
-* **🔠 Tagi hreflang**: Pełna obsługa wielojęzyczności (PL/EN) z odpowiednimi tagami hreflang
-* **🔗 Optymalizacja linków**: Wszystkie odwołania (OG, canonical, favicon, logo) prowadzą do victorymind.ai
-* **♿ Dostępność**: Alt-teksty dla grafik oraz poprawna struktura HTML z semantycznymi elementami
-* **🔏 Polityka prywatności**: Osobne strony privacy policy dla PL i EN z pełną zgodnością z RODO
-* **🍪 Zgoda na cookies**: Skrypt cookie banner ładuje Google Analytics dopiero po akceptacji
-* **🔒 Bezpieczeństwo i DNS**: Zaimplementowane rekordy CAA/SPF, robots.txt, sitemap.xml
-* **⚡ Nowoczesny frontend**: Przemyślany main.js (modal, scroll to top, AJAX), zoptymalizowana wydajność
-* **🤖 AI-Generated Content**: Wszystkie treści, grafiki i kod wygenerowane przy użyciu sztucznej inteligencji
+* **🏷️ Poprawne meta tagi**: Unikalne meta title i meta description dla każdej wersji językowej.
+* **🔠 Tagi hreflang**: Pełna obsługa wielojęzyczności (PL/EN) z odpowiednimi tagami hreflang.
+* **🔗 Optymalizacja linków**: Wszystkie odwołania (OG, canonical, favicon, logo) prowadzą do victorymind.ai.
+* **♿ Dostępność**: Alt-teksty dla grafik oraz poprawna struktura HTML z semantycznymi elementami.
+* **🔏 Polityka prywatności**: Osobne strony privacy policy dla PL i EN z pełną zgodnością z RODO.
+* **🍪 Zgoda na cookies**: Skrypt cookie banner ładuje Google Analytics dopiero po akceptacji.
+* **🔒 Bezpieczeństwo i DNS**: Zaimplementowane rekordy CAA/SPF, robots.txt, sitemap.xml.
+* **⚡ Nowoczesny frontend**: Przemyślany main.js (modal, scroll to top, AJAX), zoptymalizowana wydajność.
+* **🤖 AI-Generated Content**: Wszystkie treści, grafiki i kod wygenerowane przy użyciu sztucznej inteligencji.
 
 Dzięki temu strona [VictoryMind.ai](https://victorymind.ai) jest nie tylko szybka i bezpieczna, ale także w pełni zgodna z wymaganiami SEO i UX - a wszystko to stworzone z pomocą AI!
 
@@ -251,11 +270,11 @@ Dzięki temu strona [VictoryMind.ai](https://victorymind.ai) jest nie tylko szyb
 
 **✅ Kompleksowa analiza jakości (ostatnia aktualizacja: Maj 2025)**
 
-🎯 **ZERO ISSUES** - Wszystkie repozytoria przeszły pełny audyt jakości  
-🔒 **ENTERPRISE SECURITY** - Implementacja najwyższych standardów bezpieczeństwa  
-📚 **PEŁNA DOKUMENTACJA** - Kompletne README, instrukcje instalacji i użytkowania  
-🧪 **TESTING COVERAGE** - Implementacja testów i procedur quality assurance  
-⚡ **PERFORMANCE OPTIMIZED** - Optymalizacja wydajności i stabilności
+🎯 **ZERO ISSUES** - Wszystkie repozytoria przeszły pełny audyt jakości. 
+🔒 **ENTERPRISE SECURITY** - Implementacja najwyższych standardów bezpieczeństwa.
+📚 **PEŁNA DOKUMENTACJA** - Kompletne README, instrukcje instalacji i użytkowania.  
+🧪 **TESTING COVERAGE** - Implementacja testów i procedur quality assurance.
+⚡ **PERFORMANCE OPTIMIZED** - Optymalizacja wydajności i stabilności.
 
 ### 🏆 Repository Health Status
 

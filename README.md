@@ -12,15 +12,15 @@
 
 Założyciel VictoryMind.ai – automatyzuję i optymalizuję procesy biznesowe oraz marketingowe z wykorzystaniem sztucznej inteligencji. Oferuję dedykowane rozwiązania dopasowane do specyfiki Twojej firmy.
 
-### Czym się zajmuję
+### Czym się zajmuję:
 
-- 🤖 **Automatyzacja procesów** – wdrażam rozwiązania AI, które eliminują powtarzalne zadania, oszczędzają czas i zwiększają efektywność zespołów.
-- 📊 **Analiza danych** – zamieniam dane w wartościowe insighty: raportowanie, predykcje, wizualizacje wspierające decyzje biznesowe.
-- 🛠️ **Dedykowane rozwiązania AI** – tworzę aplikacje dopasowane do potrzeb firmy: od chatbotów po systemy rekomendacyjne.
+- 🤖 **Automatyzacja procesów** – wdrażam rozwiązania AI, które eliminują powtarzalne zadania, oszczędzają czas i zwiększają efektywność zespołów,
+- 📊 **Analiza danych** – zamieniam dane w wartościowe insighty: raportowanie, predykcje, wizualizacje wspierające decyzje biznesowe,
+- 🛠️ **Dedykowane rozwiązania AI** – tworzę aplikacje dopasowane do potrzeb firmy: od chatbotów po systemy rekomendacyjne,
 
-### O mnie
+### O mnie:
 
-- 🎓 Inżynier Sztucznej Inteligencji & Data Scientist
+- 🎓 Inżynier Sztucznej Inteligencji & Data Scientist,
 - Specjalizuję się w:
   - 💬 Chatbotach i asystentach AI (Streamlit, OpenAI API),
   - 🔄 ETL & Data Pipelines (pandas, pyarrow, własne skrypty) – automatyzacja i optymalizacja przetwarzania danych,
@@ -31,7 +31,7 @@ Założyciel VictoryMind.ai – automatyzuję i optymalizuję procesy biznesowe 
 - 🏆 Aktywny contributor – regularnie rozwijam projekty open-source do poziomu enterprise,
 - ✍️ Prowadzę profesjonalnego bloga o AI i data science, gdzie dzielę się praktycznymi poradami i obalam mity związane z AI w biznesie,
 
-### Przykłady realizacji
+### Przykłady realizacji:
 
 - **Audio2Tekst** – automatyczna transkrypcja w 90+ językach,
 - **Sokrates AI** – inteligentny asystent edukacyjny,
@@ -39,7 +39,7 @@ Założyciel VictoryMind.ai – automatyzuję i optymalizuję procesy biznesowe 
 
 Wszystkie projekty znajdziesz na moim profilu GitHub.
 
-### Kluczowe technologie i umiejętności
+### Kluczowe technologie i umiejętności:
 
 #### 🤖 AI & Machine Learning
 - 🧠 Machine Learning / Deep Learning: TensorFlow, PyTorch, scikit-learn,
@@ -65,7 +65,7 @@ Wszystkie projekty znajdziesz na moim profilu GitHub.
 
 ---
 
-## 🚀 Active Development
+## 🚀 Active Development:
 
 🔥 **Wszystkie projekty są aktywnie rozwijane!**  
 📈 Regularnie dodaję nowe funkcjonalności i podnoszę standardy do poziomu enterprise, 

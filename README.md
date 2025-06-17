@@ -21,7 +21,7 @@ Założyciel VictoryMind.ai – automatyzuję i optymalizuję procesy biznesowe 
 ### O mnie:
 
 - 🎓 Inżynier Sztucznej Inteligencji & Data Scientist,
-- Specjalizuję się w:
+- 🧠 Specjalizuję się w:
   - 💬 Chatbotach i asystentach AI (Streamlit, OpenAI API),
   - 🔄 ETL & Data Pipelines (pandas, pyarrow, własne skrypty) – automatyzacja i optymalizacja przetwarzania danych,
   - 🌐 REST API & mikroserwisach (FastAPI, Flask, Docker, Kubernetes),

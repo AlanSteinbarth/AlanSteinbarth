@@ -16,11 +16,11 @@
 
 * 🎓 **Inżynier Sztucznej Inteligencji & Data Scientist**
 Specjalizuję się w:
-💬 Chatbotach i asystentach AI (Streamlit, OpenAI API) – autorski projekt: [github.com/AlanSteinbarth/streamlit-chatbot](https://github.com/AlanSteinbarth/streamlit-chatbot).
-🔄 ETL & Data Pipelines (pandas, pyarrow, własne skrypty) – automatyzacja i optymalizacja przetwarzania danych.
-🌐 REST API & mikroserwisach (FastAPI, Flask, Docker, Kubernetes).
-🛠️ CI/CD (Jenkins, GitHub Actions) – budowa i utrzymanie niezawodnych potoków automatyzacji.
-📊 Analizie danych – przekształcanie surowych danych w wartościowe insighty biznesowe.
+* 💬 Chatbotach i asystentach AI (Streamlit, OpenAI API) – autorski projekt: [github.com/AlanSteinbarth/streamlit-chatbot](https://github.com/AlanSteinbarth/streamlit-chatbot).
+* 🔄 ETL & Data Pipelines (pandas, pyarrow, własne skrypty) – automatyzacja i optymalizacja przetwarzania danych.
+* 🌐 REST API & mikroserwisach (FastAPI, Flask, Docker, Kubernetes).
+* 🛠️ CI/CD (Jenkins, GitHub Actions) – budowa i utrzymanie niezawodnych potoków automatyzacji.
+* 📊 Analizie danych – przekształcanie surowych danych w wartościowe insighty biznesowe.
 
 * 🛠️ Tworzę enterprise-grade aplikacje open-source.
 * 🏆 **Aktywny contributor** – regularnie rozwijam projekty open-source do poziomu enterprise.

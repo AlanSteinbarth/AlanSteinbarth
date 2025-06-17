@@ -22,54 +22,54 @@ Założyciel VictoryMind.ai – automatyzuję i optymalizuję procesy biznesowe 
 
 - 🎓 Inżynier Sztucznej Inteligencji & Data Scientist
 - Specjalizuję się w:
-  - 💬 Chatbotach i asystentach AI (Streamlit, OpenAI API) – autorski projekt: [streamlit-chatbot](https://github.com/AlanSteinbarth/streamlit-chatbot)
-  - 🔄 ETL & Data Pipelines (pandas, pyarrow, własne skrypty) – automatyzacja i optymalizacja przetwarzania danych
-  - 🌐 REST API & mikroserwisach (FastAPI, Flask, Docker, Kubernetes)
-  - 🛠️ CI/CD (Jenkins, GitHub Actions) – budowa i utrzymanie niezawodnych potoków automatyzacji
-  - 📊 Analizie danych – przekształcanie surowych danych w insighty biznesowe
-- 🛠️ Tworzę enterprise-grade aplikacje open-source
-- 🏆 Aktywny contributor – regularnie rozwijam projekty open-source do poziomu enterprise
-- ✍️ Prowadzę profesjonalnego bloga o AI i data science, gdzie dzielę się praktycznymi poradami i obalam mity związane z AI w biznesie
+  - 💬 Chatbotach i asystentach AI (Streamlit, OpenAI API),
+  - 🔄 ETL & Data Pipelines (pandas, pyarrow, własne skrypty) – automatyzacja i optymalizacja przetwarzania danych,
+  - 🌐 REST API & mikroserwisach (FastAPI, Flask, Docker, Kubernetes),
+  - 🛠️ CI/CD (Jenkins, GitHub Actions) – budowa i utrzymanie niezawodnych potoków automatyzacji,
+  - 📊 Analizie danych – przekształcanie surowych danych w insighty biznesowe,
+- 🛠️ Tworzę enterprise-grade aplikacje open-source,
+- 🏆 Aktywny contributor – regularnie rozwijam projekty open-source do poziomu enterprise,
+- ✍️ Prowadzę profesjonalnego bloga o AI i data science, gdzie dzielę się praktycznymi poradami i obalam mity związane z AI w biznesie,
 
 ### Przykłady realizacji
 
-- **Audio2Tekst** – automatyczna transkrypcja w 90+ językach
-- **Sokrates AI** – inteligentny asystent edukacyjny
-- **Notatki Głosowe** – AI-powered wyszukiwanie semantyczne (embeddings)
+- **Audio2Tekst** – automatyczna transkrypcja w 90+ językach,
+- **Sokrates AI** – inteligentny asystent edukacyjny,
+- **Notatki Głosowe** – AI-powered wyszukiwanie semantyczne (embeddings),
 
 Wszystkie projekty znajdziesz na moim profilu GitHub.
 
 ### Kluczowe technologie i umiejętności
 
 #### 🤖 AI & Machine Learning
-- 🧠 Machine Learning / Deep Learning: TensorFlow, PyTorch, scikit-learn
-- 🗣️ Natural Language Processing: OpenAI GPT-4, BERT, spaCy, Whisper
-- 🔍 Vector Search & Embeddings: wyszukiwanie semantyczne, similarity search
-- 📊 Data Science: Pandas, NumPy, analiza danych
+- 🧠 Machine Learning / Deep Learning: TensorFlow, PyTorch, scikit-learn,
+- 🗣️ Natural Language Processing: OpenAI GPT-4, BERT, spaCy, Whisper,
+- 🔍 Vector Search & Embeddings: wyszukiwanie semantyczne, similarity search,
+- 📊 Data Science: Pandas, NumPy, analiza danych,
 
 #### 🎨 AI Content Generation
-- 🖼️ Generowanie grafiki: DALL·E, Midjourney, Stable Diffusion
-- ✍️ Automatyczne tworzenie treści: GPT-4, Claude, content automation
+- 🖼️ Generowanie grafiki: DALL·E, Midjourney, Stable Diffusion,
+- ✍️ Automatyczne tworzenie treści: GPT-4, Claude, content automation,
 
 #### 💻 Development & Tools
-- 🐍 Python: Pandas, Flask, Streamlit, GUI (tkinter), OCR
-- 🔄 Automatyzacja workflow: Zapier, Make, custom API integrations
-- 🛠️ Tools: Git, API integration, Docker, VS Code
-- 🌐 Web Technologies: HTML, CSS, JavaScript basics
+- 🐍 Python: Pandas, Flask, Streamlit, GUI (tkinter), OCR,
+- 🔄 Automatyzacja workflow: Zapier, Make, custom API integrations,
+- 🛠️ Tools: Git, API integration, Docker, VS Code,
+- 🌐 Web Technologies: HTML, CSS, JavaScript basics,
 
 #### 🏢 Enterprise Development
-- 🔒 Security & Best Practices: bezpieczne kodowanie, walidacja danych
-- 🧪 Testing & Quality: unit testing, code review, dokumentacja
-- ⚡ Performance Optimization: optymalizacja wydajności, scalability
-- 📦 Production Ready: enterprise-grade deployment, monitoring
+- 🔒 Security & Best Practices: bezpieczne kodowanie, walidacja danych,
+- 🧪 Testing & Quality: unit testing, code review, dokumentacja,
+- ⚡ Performance Optimization: optymalizacja wydajności, scalability,
+- 📦 Production Ready: enterprise-grade deployment, monitoring,
 
 ---
 
 ## 🚀 Active Development
 
 🔥 **Wszystkie projekty są aktywnie rozwijane!**  
-📈 Regularnie dodaję nowe funkcjonalności i podnoszę standardy do poziomu enterprise  
-⭐ Sprawdź najnowsze commity i releases w moich repozytoriach
+📈 Regularnie dodaję nowe funkcjonalności i podnoszę standardy do poziomu enterprise, 
+⭐ Sprawdź najnowsze commity i releases w moich repozytoriach,
 
 ![Enterprise](https://img.shields.io/badge/Grade-Enterprise-gold) ![Maintenance](https://img.shields.io/badge/Maintained-Yes-green) ![Updates](https://img.shields.io/badge/Updates-Regular-blue)
 

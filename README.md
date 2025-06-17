@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Scientist+%26+AI+Engineer;Founder+of+VictoryMind.ai;Python+Developer;Machine+Learning+Expert;Automation+Enthusiast)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-steinbarth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alansteinbarth)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://victorymind.ai)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@victorymind.ai)
 
@@ -398,7 +398,7 @@ Dzięki temu strona [VictoryMind.ai](https://victorymind.ai) jest nie tylko szyb
 **Kontakt i współpraca:**
 
 * 📧 **E-mail**: [contact@victorymind.ai](mailto:contact@victorymind.ai)
-* 💼 **LinkedIn**: [Alan Steinbarth](https://www.linkedin.com/in/alan-steinbarth)
+* 💼 **LinkedIn**: [Alan Steinbarth](https://www.linkedin.com/in/alansteinbarth)
 * 🐙 **GitHub**: [AlanSteinbarth](https://github.com/AlanSteinbarth)
 * 🌐 **Website**: [VictoryMind.ai](https://victorymind.ai)
 

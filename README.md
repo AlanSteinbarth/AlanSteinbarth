@@ -16,7 +16,7 @@
 
 * 🎓 **Inżynier Sztucznej Inteligencji & Data Scientist**
 Specjalizuję się w:
-💬 Chatbotach i asystentach AI (Streamlit, OpenAI API) – autorski projekt: github.com/AlanSteinbarth/streamlit-chatbot.
+💬 Chatbotach i asystentach AI (Streamlit, OpenAI API) – autorski projekt: [github.com/AlanSteinbarth/streamlit-chatbot](https://github.com/AlanSteinbarth/streamlit-chatbot).
 🔄 ETL & Data Pipelines (pandas, pyarrow, własne skrypty) – automatyzacja i optymalizacja przetwarzania danych.
 🌐 REST API & mikroserwisach (FastAPI, Flask, Docker, Kubernetes).
 🛠️ CI/CD (Jenkins, GitHub Actions) – budowa i utrzymanie niezawodnych potoków automatyzacji.
@@ -29,13 +29,11 @@ Specjalizuję się w:
 
 ### 📈 Przykłady Realizacji
 
-Wszystkie moje projekty można znaleźć na tym profilu GitHub:
-
 * **[Audio2Tekst](https://github.com/AlanSteinbarth/Audio2Tekst)** - Automatyczna transkrypcja w 90+ językach
 * **[Sokrates AI](https://github.com/AlanSteinbarth/Sokrates)** - Inteligentny asystent edukacyjny  
 * **[Notatki Głosowe](https://github.com/AlanSteinbarth/Notatki-glosowe-i-ich-wyszukiwanie)** - AI-powered wyszukiwanie semantyczne
 
-* 📍 Lokalizacja: Warszawa, Polska.
+Wszystkie moje projekty można znaleźć na tym profilu GitHub.
 
 
 **Kluczowe technologie i umiejętności:**

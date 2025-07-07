@@ -32,11 +32,16 @@ Założyciel VictoryMind.ai – automatyzuję i optymalizuję procesy biznesowe 
 - ✍️ Prowadzę profesjonalnego bloga o AI i data science, gdzie dzielę się praktycznymi poradami i obalam mity związane z AI w biznesie,
 - 💡 Oferuję konsultacje i szkolenia z AI dla firm,
 
-### Przykłady realizacji:
+### Wybrane Projekty i Realizacje:
 
-- **Audio2Tekst** – automatyczna transkrypcja w 90+ językach,
-- **Sokrates AI** – inteligentny asystent edukacyjny,
-- **Notatki Głosowe** – AI-powered wyszukiwanie semantyczne (embeddings),
+- 🤖 **Bot Broker 2** – Zaawansowany bot tradingowy wykorzystujący analizę techniczną (wskaźniki RSI, MACD) do automatycznego handlu na rynkach finansowych.
+- 🌊 **Image-Flow** – Aplikacja Streamlit do generowania obrazów z tekstu przy użyciu modeli AI (Stable Diffusion), z możliwością personalizacji i hostowania jako usługa.
+- 🗣️ **Sokrates AI** – Inteligentny asystent edukacyjny oparty na modelach językowych, który pomaga w nauce i odpowiada na pytania, wykorzystując wyszukiwanie semantyczne.
+- 🎙️ **Audio-Notes-AI** – Aplikacja do notatek głosowych z transkrypcją i wyszukiwaniem semantycznym, umożliwiająca szybkie odnajdywanie informacji w nagraniach audio.
+- ✍️ **Audio2Tekst** – Narzędzie do automatycznej transkrypcji plików audio na tekst w ponad 90 językach, oparte na modelu Whisper.
+- 🚢 **Analiza Danych Pasażerów Titanica** – Klasyczny projekt Data Science obejmujący eksploracyjną analizę danych (EDA), wizualizację (Matplotlib, Seaborn) i budowę modelu predykcyjnego (scikit-learn).
+- 🏃 **Kalkulator dla Biegaczy** – Prosta aplikacja z interfejsem graficznym (Tkinter) do obliczania tempa, prędkości i czasu biegu.
+- 🔄 **Konwerter PDF do DOCX** – Praktyczne narzędzie automatyzujące konwersję dokumentów PDF do formatu edytowalnego.
 
 Wszystkie projekty znajdziesz na moim profilu GitHub.
 
@@ -46,7 +51,7 @@ Wszystkie projekty znajdziesz na moim profilu GitHub.
 - 🧠 Machine Learning / Deep Learning: TensorFlow, PyTorch, scikit-learn,
 - 🗣️ Natural Language Processing: OpenAI GPT-4, BERT, spaCy, Whisper,
 - 🔍 Vector Search & Embeddings: wyszukiwanie semantyczne, similarity search,
-- 📊 Data Science: Pandas, NumPy, analiza danych,
+- 📊 Data Science: Pandas, NumPy, Matplotlib, Seaborn, analiza danych,
 
 #### 🎨 AI Content Generation
 - 🖼️ Generowanie grafiki: DALL·E, Midjourney, Stable Diffusion,

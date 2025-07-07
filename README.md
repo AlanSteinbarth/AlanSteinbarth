@@ -36,6 +36,7 @@ Założyciel VictoryMind.ai – automatyzuję i optymalizuję procesy biznesowe 
 
 - 🤖 **Bot Broker 2** – Zaawansowany bot tradingowy wykorzystujący analizę techniczną (wskaźniki RSI, MACD) do automatycznego handlu na rynkach finansowych.
 - 🌊 **Image-Flow** – Aplikacja Streamlit do generowania obrazów z tekstu przy użyciu modeli AI (Stable Diffusion), z możliwością personalizacji i hostowania jako usługa.
+- 🌐 **Profesjonalna Strona WWW (Portfolio)** – Moja wizytówka w sieci ([AlanSteinbarth.github.io](https://github.com/AlanSteinbarth/AlanSteinbarth.github.io)), zbudowana w celu prezentacji projektów, kompetencji i doświadczenia.
 - 🗣️ **Sokrates AI** – Inteligentny asystent edukacyjny oparty na modelach językowych, który pomaga w nauce i odpowiada na pytania, wykorzystując wyszukiwanie semantyczne.
 - 🎙️ **Audio-Notes-AI** – Aplikacja do notatek głosowych z transkrypcją i wyszukiwaniem semantycznym, umożliwiająca szybkie odnajdywanie informacji w nagraniach audio.
 - ✍️ **Audio2Tekst** – Narzędzie do automatycznej transkrypcji plików audio na tekst w ponad 90 językach, oparte na modelu Whisper.

@@ -1,5 +1,9 @@
 # Alan Steinbarth
 
+> **AI Engineer & Data Scientist | Founder of VictoryMind.ai**
+> 
+> I design, build and deploy end-to-end AI solutions for business. My portfolio includes advanced automation, generative AI, NLP, data analysis, and custom tools for real-world impact. I specialize in Python, ML, LLMs, workflow automation, and production-grade deployments. Open for international collaboration and AI consulting.
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Scientist+%26+AI+Engineer;Founder+of+VictoryMind.ai;Python+Developer;Machine+Learning+Expert;Automation+Enthusiast)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alansteinbarth)

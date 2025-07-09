@@ -43,6 +43,7 @@ Założyciel VictoryMind.ai – automatyzuję i optymalizuję procesy biznesowe 
 - 🚢 **Analiza Danych Pasażerów Titanica** – Klasyczny projekt Data Science obejmujący eksploracyjną analizę danych (EDA), wizualizację (Matplotlib, Seaborn) i budowę modelu predykcyjnego (scikit-learn).
 - 🏃 **Kalkulator dla Biegaczy** – Prosta aplikacja z interfejsem graficznym (Tkinter) do obliczania tempa, prędkości i czasu biegu.
 - 🔄 **Konwerter PDF do DOCX** – Praktyczne narzędzie automatyzujące konwersję dokumentów PDF do formatu edytowalnego.
+- 🖍️ **Generator Kolorowanek AI** – Aplikacja Streamlit do generowania czarno-białych kolorowanek PDF na podstawie własnego opisu, z wykorzystaniem GPT-4o i DALL-E 3. Umożliwia szybkie tworzenie oryginalnych kolorowanek do druku, idealnych dla dzieci, edukacji i zabawy. Automatyczne ulepszanie promptu, generowanie line-art, eksport do PDF, gotowe do pobrania. [Wypróbuj online](https://pokolorujmnie.streamlit.app/) | [Repozytorium](https://github.com/AlanSteinbarth/Kolorowanki)
 
 Wszystkie projekty znajdziesz na moim profilu GitHub.
 

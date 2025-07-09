@@ -34,8 +34,8 @@ Założyciel VictoryMind.ai – automatyzuję i optymalizuję procesy biznesowe 
 
 ### Wybrane Projekty i Realizacje:
 
-- 🤖 **Bot Broker 2** – Zaawansowany bot tradingowy wykorzystujący analizę techniczną (wskaźniki RSI, MACD) do automatycznego handlu na rynkach finansowych. [Repozytorium](https://github.com/AlanSteinbarth/Bot_Broker2)
-- 🌊 **Image-Flow** – Aplikacja Streamlit do generowania obrazów z tekstu przy użyciu modeli AI (Stable Diffusion), z możliwością personalizacji i hostowania jako usługa. [Wypróbuj online](https://image-flow.streamlit.app/) | [Repozytorium](https://github.com/AlanSteinbarth/Image-Flow)
+- 🤖 **Bot Broker 2** – Zaawansowany bot tradingowy wykorzystujący analizę techniczną (wskaźniki RSI, MACD) do automatycznego handlu na rynkach finansowych.
+- 🌊 **Image-Flow** – Aplikacja desktopowa do generowania obrazów z tekstu przy użyciu modeli AI (Stable Diffusion), z możliwością personalizacji i uruchamiania lokalnie na komputerze. [Repozytorium](https://github.com/AlanSteinbarth/Image-Flow)
 - 🌐 **Profesjonalna Strona WWW (Portfolio)** – Moja wizytówka w sieci ([victorymind.ai](https://victorymind.ai)), zbudowana w celu prezentacji projektów, kompetencji i doświadczenia. [Repozytorium](https://github.com/AlanSteinbarth/AlanSteinbarth.github.io)
 - 🗣️ **Sokrates AI** – Inteligentny asystent edukacyjny oparty na modelach językowych, który pomaga w nauce i odpowiada na pytania, wykorzystując wyszukiwanie semantyczne. [Wypróbuj online](https://sokrates-ai.streamlit.app/) | [Repozytorium](https://github.com/AlanSteinbarth/Sokrates)
 - 🎙️ **Audio-Notes-AI** – Aplikacja do notatek głosowych z transkrypcją i wyszukiwaniem semantycznym, umożliwiająca szybkie odnajdywanie informacji w nagraniach audio. [Wypróbuj online](https://audio-notes-ai.streamlit.app/) | [Repozytorium](https://github.com/AlanSteinbarth/Audio-Notes-AI)

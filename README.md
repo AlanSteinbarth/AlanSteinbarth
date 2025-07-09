@@ -34,15 +34,15 @@ Założyciel VictoryMind.ai – automatyzuję i optymalizuję procesy biznesowe 
 
 ### Wybrane Projekty i Realizacje:
 
-- 🤖 **Bot Broker 2** – Zaawansowany bot tradingowy wykorzystujący analizę techniczną (wskaźniki RSI, MACD) do automatycznego handlu na rynkach finansowych.
-- 🌊 **Image-Flow** – Aplikacja Streamlit do generowania obrazów z tekstu przy użyciu modeli AI (Stable Diffusion), z możliwością personalizacji i hostowania jako usługa.
-- 🌐 **Profesjonalna Strona WWW (Portfolio)** – Moja wizytówka w sieci ([victorymind.ai](https://victorymind.ai)), zbudowana w celu prezentacji projektów, kompetencji i doświadczenia.
-- 🗣️ **Sokrates AI** – Inteligentny asystent edukacyjny oparty na modelach językowych, który pomaga w nauce i odpowiada na pytania, wykorzystując wyszukiwanie semantyczne.
-- 🎙️ **Audio-Notes-AI** – Aplikacja do notatek głosowych z transkrypcją i wyszukiwaniem semantycznym, umożliwiająca szybkie odnajdywanie informacji w nagraniach audio.
-- ✍️ **Audio2Tekst** – Narzędzie do automatycznej transkrypcji plików audio na tekst w ponad 90 językach, oparte na modelu Whisper.
-- 🚢 **Analiza Danych Pasażerów Titanica** – Klasyczny projekt Data Science obejmujący eksploracyjną analizę danych (EDA), wizualizację (Matplotlib, Seaborn) i budowę modelu predykcyjnego (scikit-learn).
-- 🏃 **Kalkulator dla Biegaczy** – Prosta aplikacja z interfejsem graficznym (Tkinter) do obliczania tempa, prędkości i czasu biegu.
-- 🔄 **Konwerter PDF do DOCX** – Praktyczne narzędzie automatyzujące konwersję dokumentów PDF do formatu edytowalnego.
+- 🤖 **Bot Broker 2** – Zaawansowany bot tradingowy wykorzystujący analizę techniczną (wskaźniki RSI, MACD) do automatycznego handlu na rynkach finansowych. [Repozytorium](https://github.com/AlanSteinbarth/Bot_Broker2)
+- 🌊 **Image-Flow** – Aplikacja Streamlit do generowania obrazów z tekstu przy użyciu modeli AI (Stable Diffusion), z możliwością personalizacji i hostowania jako usługa. [Wypróbuj online](https://image-flow.streamlit.app/) | [Repozytorium](https://github.com/AlanSteinbarth/Image-Flow)
+- 🌐 **Profesjonalna Strona WWW (Portfolio)** – Moja wizytówka w sieci ([victorymind.ai](https://victorymind.ai)), zbudowana w celu prezentacji projektów, kompetencji i doświadczenia. [Repozytorium](https://github.com/AlanSteinbarth/AlanSteinbarth.github.io)
+- 🗣️ **Sokrates AI** – Inteligentny asystent edukacyjny oparty na modelach językowych, który pomaga w nauce i odpowiada na pytania, wykorzystując wyszukiwanie semantyczne. [Wypróbuj online](https://sokrates-ai.streamlit.app/) | [Repozytorium](https://github.com/AlanSteinbarth/Sokrates)
+- 🎙️ **Audio-Notes-AI** – Aplikacja do notatek głosowych z transkrypcją i wyszukiwaniem semantycznym, umożliwiająca szybkie odnajdywanie informacji w nagraniach audio. [Wypróbuj online](https://audio-notes-ai.streamlit.app/) | [Repozytorium](https://github.com/AlanSteinbarth/Audio-Notes-AI)
+- ✍️ **Audio2Tekst** – Narzędzie do automatycznej transkrypcji plików audio na tekst w ponad 90 językach, oparte na modelu Whisper. [Wypróbuj online](https://audio2tekst.streamlit.app/) | [Repozytorium](https://github.com/AlanSteinbarth/Audio2Tekst)
+- 🚢 **Analiza Danych Pasażerów Titanica** – Klasyczny projekt Data Science obejmujący eksploracyjną analizę danych (EDA), wizualizację (Matplotlib, Seaborn) i budowę modelu predykcyjnego (scikit-learn). [Repozytorium](https://github.com/AlanSteinbarth/Eksploracyjna-Analiza-Danych-o-pasazerach-statku-Titanic)
+- 🏃 **Kalkulator dla Biegaczy** – Prosta aplikacja z interfejsem graficznym (Tkinter) do obliczania tempa, prędkości i czasu biegu. [Repozytorium](https://github.com/AlanSteinbarth/Kalkulator-dla-biegaczy)
+- 🔄 **Konwerter PDF do DOCX** – Praktyczne narzędzie automatyzujące konwersję dokumentów PDF do formatu edytowalnego. [Repozytorium](https://github.com/AlanSteinbarth/pdf-to-docx-converter)
 - 🖍️ **Generator Kolorowanek AI** – Aplikacja Streamlit do generowania czarno-białych kolorowanek PDF na podstawie własnego opisu, z wykorzystaniem GPT-4o i DALL-E 3. Umożliwia szybkie tworzenie oryginalnych kolorowanek do druku, idealnych dla dzieci, edukacji i zabawy. Automatyczne ulepszanie promptu, generowanie line-art, eksport do PDF, gotowe do pobrania. [Wypróbuj online](https://pokolorujmnie.streamlit.app/) | [Repozytorium](https://github.com/AlanSteinbarth/Kolorowanki)
 
 Wszystkie projekty znajdziesz na moim profilu GitHub.
